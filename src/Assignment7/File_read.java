@@ -17,7 +17,7 @@ public class File_read
 		int counter = 0;
 		while(sc.hasNextLine()) 
 		{
-					
+				
 					String str1 = sc.nextLine();
 					String[]arr = str1.split(" ");
 					

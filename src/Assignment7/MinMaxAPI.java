@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 
 class StudentInfo //   student class declare
 {
-	private int id;
+	private int id; 
 	private String name;
 	private int age;
 	private int Maths_marks;

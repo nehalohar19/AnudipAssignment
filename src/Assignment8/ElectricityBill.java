@@ -11,7 +11,7 @@ public class ElectricityBill {
 		System.out.println("Enter the units : ");
 		unit = s.nextInt();
 		if(unit < 100)
-		{
+		{ 
 			//Charges = unit * 1.20;
 			Charges = 1.20;
 			System.out.println("Charges :"+Charges+"per units");

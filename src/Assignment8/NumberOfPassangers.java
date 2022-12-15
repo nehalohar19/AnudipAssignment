@@ -19,7 +19,7 @@ public class NumberOfPassangers {
 			{
 				System.out.print("Invalid Input = "+ar[i]);
 			}
-			
+			 
 			
 		}
 		System.out.print("The number of Passangers are : ");
